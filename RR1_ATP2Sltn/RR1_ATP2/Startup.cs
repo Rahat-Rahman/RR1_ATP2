@@ -9,6 +9,7 @@ namespace RR1_ATP2
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+
         }
     }
 }
